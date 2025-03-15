@@ -1,9 +1,3 @@
 use adharshdb;
-select * from customers limit 10;
 
-SELECT * FROM INFORMATION_SCHEMA.TABLES
-WHERE TABLE_NAME = 'CUSTOMERS';
-SELECT * FROM INFORMATION_SCHEMA.TABLE_CONSTRAINTS ;
-
-SELECT * FROM INFORMATION_SCHEMA.COLUMNS
-WHERE TABLE_NAME = 'CUSTOMERS';
+select * from total_sales_per_state order by total_sales desc;
