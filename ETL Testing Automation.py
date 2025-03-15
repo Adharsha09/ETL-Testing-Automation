@@ -21,4 +21,5 @@ def total_sales_per_state_table_Validation():
     assert trns_src.equals(tgt),"ETL Transformation process is not correctly performed"
     print("ELT Transformation on total_sales_per_state table is passed")
 
+    
 total_sales_per_state_table_Validation()
