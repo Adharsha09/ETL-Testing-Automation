@@ -1,0 +1,28 @@
+2025-03-15 22:11:35 - INFO - \U0001f680 ETL Testing Script Started
+2025-03-15 22:11:35 - INFO - \u2705 Connected to MySQL Database!
+2025-03-15 22:11:35 - INFO - \U0001f4e5 Reading source data from 'sales.csv'
+2025-03-15 22:11:36 - INFO - \U0001f4e4 Fetching target data from MySQL
+2025-03-15 22:11:36 - INFO - \U0001f504 Comparing transformed source data with target data
+2025-03-15 22:11:36 - INFO - \u2705 ETL Transformation on 'total_sales_per_state' table PASSED
+2025-03-15 22:11:36 - INFO - \U0001f680 ETL Testing Script Completed
+2025-03-15 22:15:24 - INFO - \U0001f680 ETL Testing Script Started
+2025-03-15 22:15:24 - INFO - \u2705 Connected to MySQL Database!
+2025-03-15 22:15:24 - INFO - \U0001f4e5 Reading source data from 'sales.csv'
+2025-03-15 22:15:25 - INFO - \U0001f4e4 Fetching target data from MySQL
+2025-03-15 22:15:25 - INFO - \U0001f504 Comparing transformed source data with target data
+2025-03-15 22:15:25 - ERROR - \u274c Assertion Error: \u274c ETL Transformation process is not correctly performed
+2025-03-15 22:15:25 - INFO - \U0001f680 ETL Testing Script Completed
+2025-03-15 22:19:00 - INFO - \U0001f680 ETL Testing Script Started
+2025-03-15 22:19:00 - INFO - \u2705 Connected to MySQL Database!
+2025-03-15 22:19:00 - INFO - \U0001f4e5 Reading source data from 'sales.csv'
+2025-03-15 22:19:01 - INFO - \U0001f4e4 Fetching target data from MySQL
+2025-03-15 22:19:01 - INFO - \U0001f504 Comparing transformed source data with target data
+2025-03-15 22:19:01 - INFO - \u2705 ETL Transformation on 'total_sales_per_state' table **PASSED**
+2025-03-15 22:19:01 - INFO - \U0001f680 ETL Testing Script Completed
+2025-03-15 22:20:30 - INFO - \U0001f680 ETL Testing Script Started
+2025-03-15 22:20:30 - INFO - \u2705 Connected to MySQL Database!
+2025-03-15 22:20:30 - INFO - \U0001f4e5 Reading source data from 'sales.csv'
+2025-03-15 22:20:31 - INFO - \U0001f4e4 Fetching target data from MySQL
+2025-03-15 22:20:31 - INFO - \U0001f504 Comparing transformed source data with target data
+2025-03-15 22:20:31 - INFO - \u2705 ETL Transformation on 'total_sales_per_state' table **PASSED**
+2025-03-15 22:20:31 - INFO - \U0001f680 ETL Testing Script Completed
